@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "global-component",
+    "slug": "global-component",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "global-component"
+}
